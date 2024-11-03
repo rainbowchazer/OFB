@@ -1,0 +1,2 @@
+# OFB
+OFB encryption algorithm.
